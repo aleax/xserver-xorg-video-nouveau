@@ -1,3 +1,10 @@
+xserver-xorg-video-nouveau (1:0.0.16+git20110411+8378443-1~bpo60+1) squeeze-backports; urgency=low
+
+  * Rebuild for squeeze-backports.
+  * Build against Xserver 1.10.
+
+ -- Cyril Brulebois <kibi@debian.org>  Sun, 14 Aug 2011 16:20:18 +0200
+
 xserver-xorg-video-nouveau (1:0.0.16+git20110411+8378443-1) unstable; urgency=low
 
   [ Sven Joachim ]
