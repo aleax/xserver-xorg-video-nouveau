@@ -1,3 +1,9 @@
+xserver-xorg-video-nouveau (1:0.0.16+git20111201+b5534a1-1+exp1) UNRELEASED; urgency=low
+
+  * Build against Xserver 1.12 RC1.
+
+ -- Cyril Brulebois <kibi@debian.org>  Sun, 01 Jan 2012 05:56:35 +0100
+
 xserver-xorg-video-nouveau (1:0.0.16+git20111201+b5534a1-1) unstable; urgency=low
 
   [ Sven Joachim ]
