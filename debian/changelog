@@ -1,3 +1,10 @@
+xserver-xorg-video-nouveau (1:1.0.7-0ubuntu1~bpo70+1) wheezy-backports; urgency=low
+
+  * Rebuild for wheezy-backports.
+  * Upload to wheezy-graphics-next
+
+ -- Alexey Bondarchuk <alexey.bondarchuk@aleax.me>  Mon, 29 Apr 2013 11:40:58 +0300
+
 xserver-xorg-video-nouveau (1:1.0.7-0ubuntu1) raring; urgency=low
 
   * Sync to unreleased debian experimental git.
